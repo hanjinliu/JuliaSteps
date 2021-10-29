@@ -8,6 +8,7 @@ CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 
 [compat]
+CSV = "0.9"
 julia = "1.5"
 
 [extras]
